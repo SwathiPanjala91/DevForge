@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: #050816;
+    --surface: #0A0D1F;
+    --card: #111529;
+    --border: #1E2540;
+    --primary: #00F5FF;
+    --secondary: #6C63FF;
+    --accent: #FF008C;
+  }
+
+  body {
+    @apply bg-[var(--background)] text-white selection:bg-[var(--primary)]/30 antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-[var(--card)]/80 backdrop-blur-md border border-[var(--border)] shadow-xl;
+  }
+  
+  .glass-card {
+    @apply bg-[var(--card)]/50 backdrop-blur-sm border border-[var(--border)] rounded-xl shadow-lg hover:border-[var(--primary)]/50 transition-all duration-300;
+  }
+
+  .neon-glow {
+    box-shadow: 0 0 20px rgba(0, 245, 255, 0.3);
+  }
+  
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-[var(--primary)] to-[var(--secondary)];
+  }
+}
