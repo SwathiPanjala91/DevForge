@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing / Local scratch
+/coverage
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+install.log
+structure.txt
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Prisma
+/generated/prisma
+src/generated/
+
+# IDE / Tooling artifacts
+.agents/
+.claude/
+.windsurf/
+skills-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
