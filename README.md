@@ -15,7 +15,7 @@ DevForge is a full-stack, enterprise-grade competitive programming and student l
 The system features real-time leaderboard analytics, contest enrollment with unique user constraints, code submission persistence, and server-side token authentication.
 
 ---
----
+
 
 # 🏫 Built for Code With Us — Coding Club
 
