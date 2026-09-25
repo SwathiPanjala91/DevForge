@@ -15,6 +15,49 @@ DevForge is a full-stack, enterprise-grade competitive programming and student l
 The system features real-time leaderboard analytics, contest enrollment with unique user constraints, code submission persistence, and server-side token authentication.
 
 ---
+---
+
+# 🏫 Built for Code With Us — Coding Club
+
+DevForge was developed specifically for the students of **JNTUH University College of Engineering, Jagtial (JNTUH UCEJ)** as part of the **Code With Us Coding Club**.
+
+As the **Secretary of the Code With Us Coding Club**, I developed DevForge to provide our students with a dedicated platform for competitive programming and coding activities.
+
+The platform was designed to help students:
+
+- 💻 Practice competitive programming problems
+- 🏆 Participate in coding contests and events
+- 📊 Track coding progress and performance
+- ⭐ Earn XP through problem solving
+- 🥇 Compare progress through leaderboards
+- 👤 Maintain coding profiles and achievements
+- 🚀 Build consistency in competitive programming
+- 🤝 Encourage greater participation in the college coding community
+
+The goal was to create a centralized platform that the coding club could use to encourage students to practice regularly, participate in coding events, and strengthen the programming culture within the college.
+
+---
+
+# 🚀 Why DevForge?
+
+Many students practice coding on different platforms, but college-level coding activities such as internal contests, student participation, rankings, and coding-club events often require separate systems.
+
+DevForge brings these activities together into a single platform designed around the needs of our college coding community.
+
+It combines:
+
+- Competitive programming
+- Coding contests
+- Problem solving
+- Code submissions
+- XP-based gamification
+- Student rankings
+- Performance analytics
+- Coding profiles
+
+into one centralized learning environment.
+
+---
 
 ## 🚀 Architectural Overview
 
